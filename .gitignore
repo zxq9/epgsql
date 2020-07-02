@@ -6,3 +6,15 @@ doc/*
 !doc/*.md
 *.idea/*
 *.iml
+.eunit
+deps
+*.o
+*.beam
+*.plt
+erl_crash.dump
+doc/*.html
+doc/*.png
+doc/*.css
+rel/example_project
+.concrete/DEV_MODE
+.rebar

@@ -1,0 +1,17 @@
+{a_email,"zxq9@zxq9.com"}.
+{author,"Craig Everett"}.
+{c_email,"zxq9@zxq9.com"}.
+{copyright,"Craig Everett"}.
+{deps,[]}.
+{desc,"Erlang PostgreSQL Database Client"}.
+{file_exts,[]}.
+{key_name,none}.
+{license,skip}.
+{modules,[]}.
+{name,"epgsql"}.
+{package_id,{"otpr","epgsql",{4,4,0}}}.
+{prefix,none}.
+{repo_url,"https://github.com/zxq9/epgsql"}.
+{tags,["postgres","db","rdbms","database","postgresql"]}.
+{type,lib}.
+{ws_url,[]}.
